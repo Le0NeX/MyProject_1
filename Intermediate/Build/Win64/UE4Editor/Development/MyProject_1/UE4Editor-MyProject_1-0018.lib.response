@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyProject_1-0018.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ilya\Documents\Unreal Projects\MyProject_1\Intermediate\Build\Win64\MyProject_1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ilya\Documents\Unreal Projects\MyProject_1\Intermediate\Build\Win64\UE4Editor\Development\MyProject_1\MyActor.cpp.obj"
+"C:\Users\ilya\Documents\Unreal Projects\MyProject_1\Intermediate\Build\Win64\UE4Editor\Development\MyProject_1\MyProject_1.cpp.obj"
+"C:\Users\ilya\Documents\Unreal Projects\MyProject_1\Intermediate\Build\Win64\UE4Editor\Development\MyProject_1\MyProject_1GameModeBase.cpp.obj"
+"C:\Users\ilya\Documents\Unreal Projects\MyProject_1\Intermediate\Build\Win64\UE4Editor\Development\MyProject_1\OpenDoor.cpp.obj"
+"C:\Users\ilya\Documents\Unreal Projects\MyProject_1\Intermediate\Build\Win64\UE4Editor\Development\MyProject_1\MyActor.gen.cpp.obj"
+"C:\Users\ilya\Documents\Unreal Projects\MyProject_1\Intermediate\Build\Win64\UE4Editor\Development\MyProject_1\MyProject_1.init.gen.cpp.obj"
+"C:\Users\ilya\Documents\Unreal Projects\MyProject_1\Intermediate\Build\Win64\UE4Editor\Development\MyProject_1\MyProject_1GameModeBase.gen.cpp.obj"
+"C:\Users\ilya\Documents\Unreal Projects\MyProject_1\Intermediate\Build\Win64\UE4Editor\Development\MyProject_1\OpenDoor.gen.cpp.obj"
+"C:\Users\ilya\Documents\Unreal Projects\MyProject_1\Intermediate\Build\Win64\UE4Editor\Development\MyProject_1\Default.rc2.res"
+/OUT:"C:\Users\ilya\Documents\Unreal Projects\MyProject_1\Intermediate\Build\Win64\UE4Editor\Development\MyProject_1\UE4Editor-MyProject_1-0018.lib"

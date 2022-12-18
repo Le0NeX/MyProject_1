@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MyProject_1",
+			"Path": "D:\\Dev\\UE_Lessons\\03_BuildingEscape\\MyProject_1\\Source\\MyProject_1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MyProject_1Editor",
+			"Path": "D:\\Dev\\UE_Lessons\\03_BuildingEscape\\MyProject_1\\Source\\MyProject_1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

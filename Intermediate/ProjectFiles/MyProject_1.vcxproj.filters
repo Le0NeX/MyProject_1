@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyProject_1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C7A333C2-8FE9-481D-99C1-0C04736EA0A0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyProject_1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyProject_1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C3203456-4EB0-4E13-BB4D-59516CE6018C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyProject_1">
+      <UniqueIdentifier>{6F14B6A0-505C-4FE0-A114-3E27B28E05AE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyProject_1\MyActor.cpp">
+      <Filter>Source\MyProject_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject_1\MyActor.h">
+      <Filter>Source\MyProject_1</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\MyProject_1\MyProject_1.Build.cs">
+      <Filter>Source\MyProject_1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyProject_1\MyProject_1.cpp">
+      <Filter>Source\MyProject_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject_1\MyProject_1.h">
+      <Filter>Source\MyProject_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject_1\MyProject_1GameModeBase.cpp">
+      <Filter>Source\MyProject_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject_1\MyProject_1GameModeBase.h">
+      <Filter>Source\MyProject_1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject_1\OpenDoor.cpp">
+      <Filter>Source\MyProject_1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject_1\OpenDoor.h">
+      <Filter>Source\MyProject_1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
